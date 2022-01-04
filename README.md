@@ -11,7 +11,6 @@ public class AboutMe {
     public Map<String, String> getCurrentWorkplace() {
         Map<String, String> currentWorkplace = new HashMap<>();
         currentWorkplace.put("company", "Est Rouge United");
-        currentWorkplace.put("position", "CTO");
 
         return currentWorkplace;
     }
